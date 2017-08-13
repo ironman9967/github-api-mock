@@ -1,0 +1,18 @@
+{
+  "name": "github-api-mock",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.2.0",
+    "good-console": "^6.4.0",
+    "good-squeeze": "^5.0.2",
+    "hapi": "^16.5.2"
+  }
+}
